@@ -1,0 +1,141 @@
+body{
+    color: #40414E;
+    margin:0% ; 
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    line-height: 2;
+    font-size: 5.625rem;
+    margin-top: 0%;
+    width: 30%;
+    margin: 0 auto 0 auto;   
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+
+
+h2{
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted  rgb(66, 55, 57) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.top-container{
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-c{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottum-c{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+/* 
+.first{
+    /* display: inline; 
+    position: absolute;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+} */
+.mid-container{
+    margin: 100px 0;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.circuler{
+    border-radius: 50%;
+}
+.circuler1{
+    float: left;
+    border-radius: 50%;
+    margin-right: 30px;
+    width: 25%;
+}
+.circuler2{
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+    width: 25%;
+}
+#pic{
+    height: 300px;
+    width:300px;
+    border: 6px solid green;
+}
+
+.btn{
+    border: 8px solid #11999e;
+    border-radius: 8px;
+    text-decoration:none ;
+    
+    color:  white;
+    background-color: #11999e;
+    
+} 
+
+
+.btn:hover{
+    color: red;
+}
+.contact_msg{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+.bottom-container{
+    
+    background-color: #66bFbF;
+    height: 100px;
+    padding: 30px;
+    
+}
+
+.bottom-container p{
+    line-height: normal;
+    margin: 30px auto 0px;
+    padding: 0px;
+    color: white; 
+}
+
+
+
+.intro{
+    width: 30%;
+    margin: auto ;
+}
+ a{  text-decoration: none;
+       font-family: 'Montserrat', sans-serif;
+        color: #11999e;
+        margin: 10px 20px;
+    
+    } 
+    a:hover{
+        color: white;
+    }
